@@ -8,8 +8,8 @@ As a top rated gym leader it is my mission to determine which pokemon I would be
 https://bkrayton815.github.io/pokequiz/
 
 
-# Wireframe
-![app-wireframe](https://user-images.githubusercontent.com/95259338/151906141-f37cf430-12cf-4d6d-a372-22cdb3493bc1.PNG)
+# Screenshots
+![Capture](https://user-images.githubusercontent.com/95259338/172433793-4deaed4c-1529-4343-91a7-ee691acb50f6.PNG)
 
 # API's utilized
 PokeAPI
